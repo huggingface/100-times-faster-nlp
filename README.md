@@ -1,7 +1,7 @@
 # 100-times-faster-nlp
 
-This repository contains an iPython notebook accompanying the post "🚀 100 Times Faster Natural Language Processing in Python" post.
+This repository contains an iPython notebook accompanying the post **🚀 100 Times Faster Natural Language Processing in Python**.
 
-The notebook conatins all the example in the post running in a iPython session.
+The notebook contains all the examples of the post running in a iPython session.
 
-The notebook is better visualized on nbviewer [here](https://nbviewer.jupyter.org/github/huggingface/100-times-faster-nlp/blob/master/100-times-faster-nlp-in-python.ipynb)
+Online, the notebook can be better visualized [on nbviewer](https://nbviewer.jupyter.org/github/huggingface/100-times-faster-nlp/blob/master/100-times-faster-nlp-in-python.ipynb) (Github's ipynb visualizer doesn't render well Cython interactive annotations).
