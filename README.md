@@ -1,4 +1,4 @@
-# 100-times-faster-nlp
+# 🚀 100 Times Faster Natural Language Processing in Python
 
 This repository contains an iPython notebook accompanying the post **🚀 100 Times Faster Natural Language Processing in Python**.
 
