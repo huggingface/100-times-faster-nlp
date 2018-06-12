@@ -1,6 +1,6 @@
 # 🚀 100 Times Faster Natural Language Processing in Python
 
-This repository contains an iPython notebook accompanying the post **🚀 100 Times Faster Natural Language Processing in Python**.
+This repository contains an iPython notebook accompanying the post [🚀100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced).
 
 The notebook contains all the examples of the post running in a iPython session.
 
